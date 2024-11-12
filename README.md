@@ -1,7 +1,7 @@
-<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="KHELEGA FREEFIRE... Your Internet Gones..." height="250px">
+<img src='![image](https://github.com/user-attachments/assets/1d7fac52-7a77-4d7b-bc80-d5beb416afa5) alternate="KHELEGA FREEFIRE... Your Internet Go![image]nes..." height="250px">
 
 #𝐀𝐍𝐔𝐉 𝐑𝐎𝐁𝐎𝐓[ BETA ]
-[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Awesome-Prince/NekoRobot-3/?ref=repository-badge) [![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.dog/Besties_XD) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Awesome-Prince/NekoRobot-3/graphs/contributors/)
+[![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/Awesome-Prince/NekoRobot-3/?ref=repository-badge) [![Join Support!](https://img.shields.io/badge/Join%20Channel-!-red)](https://telegram.dog/about_anuj1) 
 
 A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb database.
 
@@ -16,7 +16,7 @@ A modular telegram Python bot running on python3 with an Sqlalchemy, mongodb dat
 - [x] Heroku Deploy
 - [x] Docker/Local Machine
 
-╘═━「 Can be found on telegram as [NekoRobot](https://telegram.dog/NekoCuteBot) 」
+╘═━「 Can be found on telegram as [𝐀𝐍𝐔𝐉](https://telegram.dog/anuj_xd321) 」
 
 ## ╔═━「 Credits 」
 The bot is based of on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
@@ -39,7 +39,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-The Support group can be reached out to at [Programmer • Support](https://telegram.dog/Besties_XD) Or [Neko Support (Github)](https://github.com/Awesome-Prince/NekoRobot-3/discussions/15), where you can ask for help about [NekoRobot](https://telegram.dog/NekoCuteBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Programmer • Support](https://telegram.dog/about_anuj1) Or [Neko Support (Github)](https://github.com/Awesome-Prince/NekoRobot-3/discussions/15), where you can ask for help about [Anuj](https://telegram.dog/anuj_xd321), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
  <summary>Deploy Options</summary>
@@ -58,7 +58,7 @@ The Support group can be reached out to at [Programmer • Support](https://tele
 </p>
 
     ~$ git clone https://github.com/Awesome-Prince/NekoRobot-3.git
-    ~$ cd NekoRobot
+    ~$ cd AnujRobot
     ~$ cp sample_config.py config.py
 Edit Config.py with your own Values
 
