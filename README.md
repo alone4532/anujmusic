@@ -42,7 +42,7 @@ The Support group can be reached out to at [Programmer • Support](https://tele
 
 </p>
 
-    ~$ git clone https://github.com/Awesome-Prince/NekoRobot-3.git
+    ~$ git clone https://github.com/Awesome-Prince/AnujRobot-3.git
     ~$ cd AnujRobot
     ~$ cp sample_config.py config.py
 Edit Config.py with your own Values
